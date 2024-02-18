@@ -1,0 +1,1 @@
+In the image I saw rockyou.txt and big.text. Tried brute forcing the pdf by pdfcrack  using rockyou.txt it couldn't brute force the password then I used big.txt and then the password was cracked.The password was zendplatform.i used the password to open the pdf file and there i found the flag flag{CipherMaster_1337}
