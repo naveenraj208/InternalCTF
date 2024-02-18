@@ -1,0 +1,2 @@
+When we use strings on the file which will be number from 1-5 which when we combine we get flag{good_you_found_xxx}.when we search through .pcap file.go through steam of packets we find udp steam has multiple packets on the app discord so when we replays it we get
+flag{good_you_found_discord}
